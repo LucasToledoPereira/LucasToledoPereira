@@ -3,7 +3,10 @@
 - 🌱  I’m currently learning about Product Management to become a PM.
 - 📫  You can reach me throw the e-mails: toledo_lu@hotmail.com or toledo.ltp@gmail.com
 
-<!---
-LucasToledoPereira/LucasToledoPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+<br />
+<br />
+
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasToledoPereira&show_icons=true&theme=tokyonight)](https://github.com/LucasToledoPereira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasToledoPereira&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/LucasToledoPereira)
+-->
